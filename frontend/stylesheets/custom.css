@@ -1,0 +1,35 @@
+.username {
+	color: #AAA;
+}
+
+.message {
+
+}
+
+.userListHeading {
+	color: #AAA;
+}
+
+.userList {
+	color: #AAA;
+}
+
+.verticalLineRight {
+    border-right: thin solid #000;
+	padding-right: 30px;
+}
+
+textarea {
+	width: 600px;
+	height: 30px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	margin-bottom: 3px;
+}
+
+#changeUsernameBtn {
+	margin-top: 20px;
+}

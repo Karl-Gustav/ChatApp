@@ -1,0 +1,18 @@
+{
+  "name": "chatapp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "chatApp.js",
+  "dependencies": {
+    "express": "~3.4.8",
+    "nodemon": "~0.7.10",
+    "socket.io": "~0.9.16",
+    "sugar": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
